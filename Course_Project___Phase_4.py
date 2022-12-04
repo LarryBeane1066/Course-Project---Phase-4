@@ -1,6 +1,8 @@
-#
-#
-#
+# Lawrence Beane
+# CIS261
+# Professor Mark Stone
+# Course Project - Phase 4
+
 from datetime import datetime
 ################################################################################
 def CreateUsers():
@@ -185,4 +187,4 @@ if __name__ == "__main__":
 
 
 
-dmi
+
